@@ -1,0 +1,37 @@
+{
+    "61f4a444-2c88-4391-a0a4-f9243bf9b121":{"id":"61f4a444-2c88-4391-a0a4-f9243bf9b121",
+    "name":"Wrist-Watch",
+    "price":500,"quantity":50,
+    "image":"image_url.png"},
+    
+    "ba8e76c3-9f71-4012-9f4f-adbf616993bb":{"id":"ba8e76c3-9f71-4012-9f4f-adbf616993bb",
+    "name":"Wrist-Watch",
+    "price":500,
+    "quantity":50,
+    "image":"image_url.png"},
+    
+    "796c3e80-7fe8-4ced-9dce-807d2cd97e9f":{"id":"796c3e80-7fe8-4ced-9dce-807d2cd97e9f",
+    "name":"Wrist-Watch",
+    "price":500,
+    "quantity":50,
+    "image":"image_url.png"},
+
+    "5078e31a-81ce-4e0a-b05e-6ce59a77bd7a":{"id":"5078e31a-81ce-4e0a-b05e-6ce59a77bd7a",
+    "name":"Wrist-Watch",
+    "price":500,
+    "quantity":50,
+    "image":"image_url.png"},
+    
+    "0b74482c-cfed-45da-b435-32f06b93d216":{"id":"0b74482c-cfed-45da-b435-32f06b93d216",
+    "name":"Rolex",
+    "price":300,
+    "quantity":70,
+    "image":"image_url.png"},
+    
+    "029d373b-0471-49aa-9a02-a39da3443697":{"id":"029d373b-0471-49aa-9a02-a39da3443697",
+    "name":"Wrist Watch",
+    "price":500,
+    "quantity":50,
+    "image":"image_url.png"
+    }
+}
